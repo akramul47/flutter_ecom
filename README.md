@@ -4,6 +4,12 @@
 
 Welcome to my Flutter eCommerce app developed for a client! This project aims to provide a robust and feature-rich solution for creating an online shopping experience using Flutter.
 
+
+## 🚀 Live Preview
+
+Explore the live version of the app [here](https://asian-dubai.com/).
+
+
 ## Features
 
 🚀 **Key Features:**
@@ -82,8 +88,4 @@ The project follows a modular structure for better organization:
 |   |-- payment_service.dart
 |   |-- ...
 |-- main.dart
-
-## 🚀 Live Preview
-
-Explore the live version of the app [here](https://asian-dubai.com/).
 
