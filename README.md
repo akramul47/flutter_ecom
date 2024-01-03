@@ -5,9 +5,10 @@
 Welcome to my Flutter eCommerce app developed for a client! This project aims to provide a robust and feature-rich solution for creating an online shopping experience using Flutter.
 
 
-## 🚀 Live Preview
+## 🚀 Live Webpage
 
-Explore the live version of the app [here](https://asian-dubai.com/).
+Explore the live version of the app <a href="https://asian-dubai.com/" target="_blank">here</a>.
+
 
 
 ## Features
